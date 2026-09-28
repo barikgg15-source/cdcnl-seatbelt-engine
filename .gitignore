@@ -1,0 +1,7 @@
+*.amx
+*.exe
+*.so
+*.log
+*.rar
+*.zip
+.DS_Store
